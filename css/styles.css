@@ -1,0 +1,13 @@
+.blog1 {
+  font-variant: small-caps;
+}
+.blog2 {
+  font-style: italic;
+}
+.blog3 {
+  font-family: fantasy;
+  color: red;
+}
+.aboutme {
+  font-weight: lighter;
+}
